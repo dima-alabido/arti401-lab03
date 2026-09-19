@@ -1,2 +1,2 @@
-# AI-Principles-and-Techniques
-AI Principles and Techniques course labs
+# AI-Principles-and-Techniques - ARTI 401
+AI Principles and Techniques lab 03
